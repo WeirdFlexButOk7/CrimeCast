@@ -1,6 +1,6 @@
 # CrimeCast
 
-## A model to predict crime categories using historical crime data.
+### A model to predict crime categories using historical crime data.
 
-## Achieved 87.3% accuracy on the test dataset.
+### Achieved 87.3% accuracy on the test dataset.
 
